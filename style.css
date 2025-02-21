@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: "Montserrat";
+    background-color: #ccccca;
+}
+
+.portfolio {
+    width: 100vw;
+    
+    
+}
+
+.portfolio img{
+    width: 50%;
+    border-radius: 15px;
+}
+
+.gallery{
+    display:flex ;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.gallery p{
+    padding: 2em;
+}
+.flex{
+    display: flex;
+}

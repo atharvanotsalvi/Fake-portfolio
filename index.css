@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: "Montserrat";
+    background-color: #ccccca;
+}
+
+.header{
+    width: 100vw;
+}
+
+
+.header a{
+    text-decoration: none;
+    color: #000;
+    cursor: pointer;
+}
+
+.header ul{
+    list-style: none;
+    gap: 1em;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+}
+
+.home{
+    margin-top: 3em;
+    text-align: center;
+    line-height: 2em;
+}
